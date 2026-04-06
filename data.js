@@ -42,7 +42,7 @@ const data = [
     "id": 1004,
     "word": "diverse",
     "choices": [
-      "さまざまな",
+      "多様な",
       "末期の",
       "反対の",
       "厳しい"
@@ -380,7 +380,7 @@ const data = [
     "id": 1030,
     "word": "tip",
     "choices": [
-      "先",
+      "先（端）",
       "ソフトウェア",
       "企業",
       "小売り"
@@ -425,8 +425,8 @@ const data = [
       "錠剤"
     ],
     "correct": 2,
-    "sentence": "Despite the rain, the ground is still very firm.",
-    "jp": "雨が降っているにもかかわらず，地面はまだとても固い。"
+    "sentence": "She joined a consulting firm after graduation.",
+    "jp": "彼女は卒業後、コンサル会社に入社した。"
   },
   {
     "id": 1034,
@@ -445,7 +445,7 @@ const data = [
     "id": 1035,
     "word": "practical",
     "choices": [
-      "現実的な",
+      "実践的な",
       "末期の",
       "反対の",
       "できる"
@@ -822,10 +822,10 @@ const data = [
     "id": 1064,
     "word": "honor",
     "choices": [
-      "尊敬する",
-      "非難する",
-      "取り組む",
-      "ささやく"
+      "名誉",
+      "非難",
+      "面白さ",
+      "ささやき"
     ],
     "correct": 0,
     "sentence": "It is an honor to finally meet you in person.",
