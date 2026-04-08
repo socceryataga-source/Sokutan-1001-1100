@@ -1,3 +1,6 @@
+if (!window.__authOK) {
+  // 認証失敗時は何も実行しない
+} else {
 
 let mode = "order";
 let quizData = [];
@@ -184,4 +187,6 @@ function escapeHtml(text) {
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
     .replaceAll(">", "&gt;");
+}
+
 }
